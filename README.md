@@ -7,7 +7,7 @@
 /// Examples:
 ///     38 → (3+8=11) → (1+1=2) → Result = 2
 ///     18 → (1+8=9) → Result = 9
-/// 
+
 **Formula:**
 /// - If number is 0 → result = 0
 /// - Else if number is divisible by 9 → result = 9
