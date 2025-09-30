@@ -1,4 +1,4 @@
- **<summary>**
+ **summary**
  
 /// Returns the "digital root" of a number using modulo 9 logic.
 
