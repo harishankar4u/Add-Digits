@@ -1,6 +1,9 @@
  **<summary>**
+ 
 /// Returns the "digital root" of a number using modulo 9 logic.
+
 /// Digital root is the single-digit value obtained by repeatedly summing the digits of a number.
+
 /// Examples:
 ///     38 → (3+8=11) → (1+1=2) → Result = 2
 ///     18 → (1+8=9) → Result = 9
